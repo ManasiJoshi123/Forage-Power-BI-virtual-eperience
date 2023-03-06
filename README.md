@@ -29,7 +29,7 @@ Some KPI's included
 1) % of men
 2) % of women
 3) % of leavers
-4) % employees promoted (FY21)
+4) % employees promoted
 5) % of women promoted
 6) % of hires men
 7) % of hires women
